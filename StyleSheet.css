@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+#Embedded-App {
+    float: left;
+    width: 50%;
+}
+
+#Search {
+    float: left;
+    width: 50%;
+}
+
+input {
+    width: 120px;
+}
