@@ -16,3 +16,7 @@ body {
 input {
     width: 120px;
 }
+
+#userList {
+    text-align: left;
+}
